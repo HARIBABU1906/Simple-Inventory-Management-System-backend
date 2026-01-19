@@ -1,0 +1,62 @@
+[
+  {
+    "productId": 1,
+    "productName": "Veg Rolls",
+    "description": "Preferred by Both Vegetarians and Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 2,
+    "productName": "Chicken Manchuria",
+    "description": "Preferred by Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 4,
+    "productName": "Pizza",
+    "description": "Italian dish with various toppings",
+    "Stock": true
+  },
+  {
+    "productId": 5,
+    "productName": "Burger",
+    "description": "Fast food item with patties",
+    "Stock": true
+  },
+  {
+    "productId": 6,
+    "productName": "Salad",
+    "description": "Healthy option with fresh vegetables",
+    "Stock": true
+  },
+  {
+    "productId": 7,
+    "productName": "Pasta",
+    "description": "Italian pasta dish",
+    "Stock": false
+  },
+  {
+    "productId": 8,
+    "productName": "Sandwich",
+    "description": "Quick meal with bread and fillings",
+    "Stock": true
+  },
+  {
+    "productId": 9,
+    "productName": "Soup",
+    "description": "Warm soup for comfort",
+    "Stock": true
+  },
+  {
+    "productId": 10,
+    "productName": "Ice Cream",
+    "description": "Dessert item",
+    "Stock": false
+  },
+  {
+    "productId": 11,
+    "productName": "Samosa",
+    "description": "Tea time snack",
+    "Stock": true
+  }
+]
